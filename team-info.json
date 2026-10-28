@@ -1,0 +1,34 @@
+{
+    "team_name": "Vis-AI-Vis",
+    "students":
+    [
+        {
+            "student_id": "k12557470",
+            "first_name": "Christopher",
+            "last_name": "Fichtel",
+            "email": "christopher.fichtel@outlook.de",
+            "github_user": "fichtelchristopher"
+        },
+        { 
+            "student_id": "k1427462",
+            "first_name": "Thomas",
+            "last_name": "Hartmann",
+            "email": "th.em.hartmann@gmail.com",
+            "github_user": "ThomasEHartmann" 
+        },
+        {
+            "student_id": "k12403857",
+            "first_name": "Tianxiang",
+            "last_name": "Guo",
+            "email": "dannielcriss@mail.com",
+            "github_user": "TianxGuo"
+        },
+        { 
+            "student_id": "k12203959",
+            "first_name": "Muhid",
+            "last_name": "Syed Muhammad",
+            "email": "syedmuhammad.muhid1@gmail.com",
+            "github_user": "thenorthsolo" 
+        }
+    ]
+}

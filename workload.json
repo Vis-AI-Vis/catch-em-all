@@ -1,0 +1,25 @@
+{
+    "team_name": "Vis-AI-Vis",
+    "students": [
+        {
+            "first_name": "Christopher",
+            "last_name": "Fichtel",
+            "workload": 0.25
+        },       
+        { 
+            "first_name": "Thomas",
+            "last_name": "Hartmann",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Tianxiang",
+            "last_name": "Guo",
+            "workload": 0.25
+        },
+        { 
+            "first_name": "Muhid",
+            "last_name": "Syed Muhammad",
+            "workload": 0.25
+        }
+    ]
+}
