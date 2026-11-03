@@ -1,92 +1,46 @@
-\# Topic: \[Topic Title]
+# Topic: [Topic Title]
 
+- **Date:** YYYY-MM-DD
+- **Model(s) Used:** [e.g., Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet]
+- **User:** [Student]
+- **Overall Objective:** [Objective in this topic/session]
 
+---
 
-\- \*\*Date:\*\* YYYY-MM-DD
+## Interaction 1: [Title]
 
-\- \*\*Model(s) Used:\*\* \[e.g., Gemini 1.5 Pro, GPT-4o, Claude 3.5 Sonnet]
+### 0. Model
+- **Model:** [Model and maybe thinking level]
 
-\- \*\*User:\*\* \[Student]
+### 1. Prompt / Input
+- **Context:** [Short description of context]
+- **Prompt:**
+> [Prompt]
 
-\- \*\*Overall Objective:\*\* \[Objective in this topic/session]
+### 2. AI Output
+- **Output / Summary:** [Output Copy / Short Summary of Output]
 
+### 3. Reflection
+- **Strengths:** [strengths if any, compare if necessary]
+- **Limitations:** [Issues /Limitation/ Problems]
+- **Impact:** [What did we do with it?]
 
+---
 
-\---
+## Interaction 2: [Title]
 
+### 0. Model
+- **Model:** [Model and maybe thinking level]
 
+### 1. Prompt / Input
+- **Context:** [Short description of context]
+- **Prompt:**
+> [Prompt]
 
-\## Interaction 1: \[Title]
+### 2. AI Output
+- **Output / Summary:** [Output Copy / Short Summary of Output]
 
-
-
-\### 0. Model
-
-\- \*\*Model:\*\* \[Model and maybe thinking level]
-
-
-
-\### 1. Prompt / Input
-
-\- \*\*Context:\*\* \[Short description of context]
-
-\- \*\*Prompt:\*\*
-
-> \\\\\\\[Prompt]
-
-
-
-\### 2. AI Output
-
-\- \*\*Output / Summary:\*\* \[Output Copy / Short Summary of Output]
-
-
-
-\### 3. Reflection
-
-\- \*\*Strengths:\*\* \[strengths if any, compare if necessary]
-
-\- \*\*Limitations:\*\* \[Issues /Limitation/ Problems]
-
-\- \*\*Impact:\*\* \[What did we do with it?]
-
-
-
-\---
-
-\## Interaction 2: \[Title]
-
-
-
-\### 0. Model
-
-\- \*\*Model:\*\* \[Model and maybe thinking level]
-
-
-
-\### 1. Prompt / Input
-
-\- \*\*Context:\*\* \[Short description of context]
-
-\- \*\*Prompt:\*\*
-
-> \\\[Prompt]
-
-
-
-\### 2. AI Output
-
-\- \*\*Output / Summary:\*\* \[Output Copy / Short Summary of Output]
-
-
-
-\### 3. Reflection
-
-\- \*\*Strengths:\*\* \[strengths if any, compare if necessary]
-
-\- \*\*Limitations:\*\* \[Issues /Limitation/ Problems]
-
-\- \*\*Impact:\*\* \[What did we do with it?]
-
-
-
+### 3. Reflection
+- **Strengths:** [strengths if any, compare if necessary]
+- **Limitations:** [Issues /Limitation/ Problems]
+- **Impact:** [What did we do with it?]
