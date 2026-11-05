@@ -1,0 +1,14 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Downloaded datasets and model/cache files are reproducible and must not be committed.
+data/
+.cache/
+
+# Generated Phase I outputs are rebuilt by the analysis scripts.
+outputs/
+work/

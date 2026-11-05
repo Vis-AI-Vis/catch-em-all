@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "catch-em-all"
+version = "0.1.0"
+description = "Reproducible Phase I OOD analysis for a Pokemon ViT classifier"
+requires-python = ">=3.9"
+dependencies = [
+  "torch==2.5.1",
+  "transformers==4.46.3",
+  "safetensors==0.4.5",
+  "numpy==1.26.4",
+  "pandas==2.2.3",
+  "Pillow==11.0.0",
+  "matplotlib==3.9.2",
+  "seaborn==0.13.2",
+  "scikit-learn==1.5.2",
+  "tqdm==4.67.1",
+]
+
+[project.scripts]
+catch-em-all-phase1 = "catch_em_all.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
