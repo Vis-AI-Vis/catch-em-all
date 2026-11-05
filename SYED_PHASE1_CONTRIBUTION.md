@@ -1,5 +1,7 @@
 # Syed's Phase I Contribution
 
+[View the complete Phase I assignment PDF](reports/phase1_submission_muhid_syed_muhammad.pdf)
+
 ## What I worked on
 
 My Phase I work focused on checking how a Pokémon image classifier responds to
