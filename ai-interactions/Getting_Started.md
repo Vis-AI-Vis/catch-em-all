@@ -97,6 +97,6 @@
   3. **Pokémon Co-Confusion Graph (Pokémon ↔ Pokémon):** Connected Pokémon that compete on the same images/visual neighborhoods, using edge width for shared image frequency and red edge labels to show the bridging animal.
 
 ### 3. Reflection
-- **Strengths:** [strengths if any, compare if necessary]
-- **Limitations:** [Issues /Limitation/ Problems]
-- **Impact:** [What did we do with it?]
+- **Strengths:** very good at coming up with ideas and code
+- **Limitations:** mountains of text and code, which is not always running or necessary or even the right direction, often goes into more complicated analyses than necessary, does not fully understand the output visually.
+- **Impact:** Very good for cerating analyses but the ideas are often too complicated, useful with grounding, the ideas were combined with ideas from the lecture and then implemented with AI as a tool 
