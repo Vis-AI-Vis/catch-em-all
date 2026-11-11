@@ -1,6 +1,7 @@
 /images/**
 /models/**
 /predictions/**
+/output/**
 *.zip
 
 .DS_Store
