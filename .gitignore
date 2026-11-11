@@ -1,0 +1,13 @@
+/images/**
+/models/**
+/predictions/**
+/output/**
+*.zip
+
+.DS_Store
+__pycache__/
+.venv/
+venv/
+.env
+.cache/
+.vscode/
